@@ -5,6 +5,7 @@ const About = () => {
     <div className='container'>
       <br />
         <h6>
+    The MyTodosList website, built with React, is a simple to-do list app that enables users to manage tasks efficiently through a clean, responsive interface. It allows users to add, view, and delete tasks dynamically. React’s state management ensures that changes happen in real time, creating a seamless user experience. The website is structured with modular components: the main `App` component holds the list’s state, while `TodosList` displays the tasks, and `TodoItem` handles each task's details. This structure makes the app highly maintainable and easily extendable, offering a solid foundation for future enhancements, such as saving tasks in local storage or marking them as completed.
          </h6>
         <br />
         <hr />
